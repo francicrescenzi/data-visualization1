@@ -13,12 +13,11 @@
 
 #### HEADER 3
 
+![Image_Pandas](image.pandas.png)
+
+
 
 ![Image3_Pandas](image3.pandas.png)
-
-
-
-![Image_Pandas](image.pandas.png)
 
 
 ```
