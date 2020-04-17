@@ -1,4 +1,4 @@
-# Data visualization
+# Data visualization - project 2
 
 ## HEADER 1
 
